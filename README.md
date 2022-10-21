@@ -1,1 +1,1 @@
-# dil-star-pattern
+# LOVE-star-pattern
